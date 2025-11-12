@@ -59,7 +59,6 @@ It is a companion, <em>awesome-style</em> resource that curates taxonomies, repr
   - [Quantum Computing Systems](#quantum-computing-systems)
   - [Quantum Optimization](#quantum-optimization)
   - [Quantum AI (QAI)](#quantum-ai-qai)
-- [Contributing](#-contributing)
 - [Star History](#-star-history)
 - [Contributors](#-contributors)
 - [Citation](#-citation)
@@ -75,7 +74,6 @@ This repository tracks that evolution with structured categories, clean tables, 
 ---
 
 ## 📚 Curated Tables
-> Keep rows concise; add links/DOIs in the “Refs” column when you curate.
 
 ### Quantum Computing Systems
 | Title / System | Type | Venue / Year | Key Specs / Notes | Refs |
@@ -106,16 +104,6 @@ This repository tracks that evolution with structured categories, clean tables, 
 | AI-assisted QEC / calibration | Control | — | Feedback/stability |  |
 | Quantum-enhanced learning | QML/Agent | — | Variational policies |  |
 | Foundation models for circuits | FM | — | Tokenization/encoding |  |
-
----
-
-## 🤝 Contributing
-
-PRs are welcome. Please:
-1. keep tables short, consistent, and in pure Markdown;
-2. place long references in `references/` (BibTeX/CSL-JSON/RIS);
-3. use clear commit messages (e.g., `feat(tables): add VQE benchmarks`);
-4. avoid uploading large PDFs—prefer DOI/URL links in `papers/README.md`.
 
 ---
 
