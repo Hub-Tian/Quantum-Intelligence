@@ -69,7 +69,7 @@ It is a companion, <em>awesome-style</em> resource that curates taxonomies, repr
 ## 🌌 Overview
 Quantum computing has entered a stage of **hybrid intelligence**, in which **CPU–GPU–QPU** resources are woven into unified computational fabrics for near–real-time quantum–classical workflows. Beyond pure algorithm execution, the field is rapidly moving toward **learning-capable, self-optimizing quantum systems**—from **quantum optimization** to **quantum intelligence**.
 
-This repository tracks that evolution with structured categories, clean tables, and high-quality references (to be filled), serving as a living index for researchers and practitioners.
+This repository tracks that evolution with structured categories, clean tables, and high-quality references, serving as a living index for researchers and practitioners.
 
 ---
 
@@ -130,14 +130,12 @@ For questions, contact **Yonglin Tian** (<yonglin.tian@ia.ac.cn>) or **Fei Lin**
 If you find this repository useful, please consider citing this paper:
 
 ```bibtex
-@misc{tian2025uavsmeetllmsoverviews,
-      title={UAVs Meet LLMs: Overviews and Perspectives Toward Agentic Low-Altitude Mobility}, 
-      author={Yonglin Tian and Fei Lin and Yiduo Li and Tengchao Zhang and Qiyao Zhang and Xuan Fu and Jun Huang and Xingyuan Dai and Yutong Wang and Chunwei Tian and Bai Li and Yisheng Lv and Levente Kovács and Fei-Yue Wang},
+@misc{lin2025_new_ai_for_qc,
+      title={New AI for Quantum Computing: From Quantum Optimization to Quantum Intelligence}, 
+      author={collaborators},
       year={2025},
-      eprint={2501.02341},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO},
-      url={https://arxiv.org/abs/2501.02341}, 
+      note={Under review at IEEE/CAA Journal of Automatica Sinica (JAS)},
+      url={https://github.com/Hub-Tian/Quantum-Intelligence},
 }
 ```
  
