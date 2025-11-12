@@ -55,8 +55,6 @@ It is a companion, <em>awesome-style</em> resource that curates taxonomies, repr
 
 ## 📑 Table of Contents
 - [Overview](#-overview)
-- [Taxonomy](#-taxonomy)
-- [Representative Systems & Platforms](#-representative-systems--platforms)
 - [Curated Tables](#-curated-tables)
   - [Quantum Computing Systems](#quantum-computing-systems)
   - [Quantum Optimization](#quantum-optimization)
@@ -73,32 +71,6 @@ It is a companion, <em>awesome-style</em> resource that curates taxonomies, repr
 Quantum computing has entered a stage of **hybrid intelligence**, in which **CPU–GPU–QPU** resources are woven into unified computational fabrics for near–real-time quantum–classical workflows. Beyond pure algorithm execution, the field is rapidly moving toward **learning-capable, self-optimizing quantum systems**—from **quantum optimization** to **quantum intelligence**.
 
 This repository tracks that evolution with structured categories, clean tables, and high-quality references (to be filled), serving as a living index for researchers and practitioners.
-
----
-
-## 🧭 Taxonomy
-| Layer | Focus | Examples |
-|---|---|---|
-| **Hardware / Systems** | Superconducting, Ion-trap, Photonic, Topological QPUs; Hybrid CPU–GPU–QPU clusters | IBM Condor; Google Sycamore; Quantinuum H-Series; IonQ Forte; PsiQuantum Omega; PSNC Hybrid Cluster; IBM Quantum-Centric Supercomputing; NVIDIA CUDA-Q + NVQLink |
-| **Algorithms / Optimization** | VQE, QAOA, Quantum Annealing, Tensorized QML, Heuristics | VQE/QAOA variants; D-Wave Advantage; PennyLane; Qiskit; TensorQAI |
-| **QAI / Agents / Orchestration** | LLM–QPU agents, runtime feedback, auto-calibration/QEC, hybrid CoT | Qiskit Runtime (AI-assisted patterns); CUDA-Q workflows; LLM-driven schedulers |
-
----
-
-## 🔬 Representative Systems & Platforms
-### ⚛️ Quantum Hardware Platforms
-- **IBM Condor** — 1,121-qubit superconducting processor.  
-- **Google Sycamore** — 53-qubit device for quantum supremacy benchmarks.  
-- **Quantinuum H-Series / IonQ Forte** — trapped-ion platforms with high-fidelity gates.  
-- **PsiQuantum Omega** — manufacturable photonic quantum computer (Nature, 2025).  
-- **Microsoft Majorana-1** — prototype toward topological qubits (Nature-track results).
-
-### 🧠 Hybrid Quantum–Classical Systems
-- **PSNC Hybrid Quantum Cluster** — multi-user, multi-QPU/GPU/CPU orchestration.  
-- **IBM Quantum-Centric Supercomputing** — unified compute fabric with Qiskit Runtime.  
-- **NVIDIA CUDA-Q & NVQLink** — unified programming + low-latency GPU–QPU interconnect.
-
-> **Note:** Full reference entries will be added in dedicated tables; placeholders below are for you to fill later.
 
 ---
 
