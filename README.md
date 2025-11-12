@@ -41,14 +41,14 @@ This repository accompanies the paper
 It is a companion, <em>awesome-style</em> resource that curates taxonomies, representative systems, and references spanning:
 - **Quantum Computing Systems** (QPU hardware & hybrid architectures)  
 - **Quantum Optimization** (VQE/QAOA, annealing, hybrid solvers)  
-- **Quantum AI (QAI)** (LLM–QPU agents, intelligent runtime/orchestration)
+- **Quantum AI (QAI)** ()
 
 > If you find it useful, please star ⭐ this repo and consider a [citation](#citation).
 
 ---
 
 ## 🔔 News
-- **[2025-11-12]** Repository initialized with structure, tables, and placeholders.
+- **[2025-11-20]** Repository initialized with structure, tables, and placeholders.
 - **[TBA]** Camera-ready materials and extended references will be added after acceptance.
 
 ---
